@@ -1,0 +1,22 @@
+
+body
+{
+	background-color: #222244;
+}
+
+table
+{
+	background-color: white;
+	border-style: solid;
+	height:600px;
+	width:800px;
+}
+
+#trHeader
+ {
+	background-color: #FEFFFF;
+}
+#NavWidth
+ {
+	width:200px;
+}
